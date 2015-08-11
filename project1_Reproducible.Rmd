@@ -2,7 +2,7 @@
 title: "Reproducible Research Project 1"
 author: "Ruomeng Cui"
 date: "August 14, 2015"
-output: html_document
+output: pdf_document
 ---
 
 This is the project document for the first project in reporducible research.
